@@ -18,3 +18,4 @@ set_global_assignment -name VHDL_FILE source/pgmrom.vhd
 set_global_assignment -name VHDL_FILE source/earom.vhd
 set_global_assignment -name VHDL_FILE source/bwidow.vhd
 set_global_assignment -name SYSTEMVERILOG_FILE "Arcade-BlackWidow.sv"
+set_global_assignment -name VERILOG_FILE source/joydb15.v
